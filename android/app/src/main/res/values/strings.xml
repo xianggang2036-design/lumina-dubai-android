@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Lumina Dubai</string>
+    <string name="title_activity_main">Lumina Dubai</string>
+    <string name="package_name">com.lumina.dubai</string>
+    <string name="custom_url_scheme">com.lumina.dubai</string>
+</resources>

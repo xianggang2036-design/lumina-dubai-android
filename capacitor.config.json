@@ -1,0 +1,14 @@
+{
+  "appId": "com.lumina.dubai",
+  "appName": "Lumina Dubai",
+  "webDir": "www",
+  "server": {
+    "url": "https://adult-sexual-products.web.app",
+    "cleartext": false,
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false,
+    "webContentsDebuggingEnabled": true
+  }
+}
